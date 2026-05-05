@@ -137,19 +137,6 @@ Open to **Data Engineer** and **Analytics Engineer** roles starting immediately.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=20krish20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EAAFF&icon_color=3EAAFF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=20krish20&theme=tokyonight&hide_border=true&background=0D1117&ring=3EAAFF&fire=3EAAFF&currStreakLabel=3EAAFF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20krish20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EAAFF&text_color=C9D1D9" width="40%" />
-</p>
-
----
-
 ### Education
 
 **University of Maryland, College Park**  
