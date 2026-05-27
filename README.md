@@ -87,7 +87,7 @@ Open to **Data Engineer** and **Analytics Engineer** roles starting immediately.
     <td width="50%">
       <h3 align="center">🤖 Systematic Compliance Agent</h3>
       <p align="center">
-        <a href="[https://github.com/20krish20](https://github.com/20krish20/Systematic-Compliance-Agent)">
+        <a href="https://github.com/20krish20/Systematic-Compliance-Agent">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
