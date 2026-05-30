@@ -91,49 +91,39 @@ Open to **Data Engineer** and **Analytics Engineer** roles starting immediately.
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>4-agent autonomous compliance pipeline using <b>LangGraph</b> and <b>Claude LLM</b> to classify 8M+ CFPB financial complaints across 15+ regulatory categories.</p>
-      <p><b>Results:</b> 92% routing accuracy · 70% reduction in manual triage time · sub-2s latency via FastAPI · production-grade guardrails with human-in-the-loop escalation</p>
-      <p><code>LangGraph</code> <code>Claude API</code> <code>ChromaDB</code> <code>FastAPI</code> <code>Python</code></p>
+      <p>4-agent autonomous pipeline using <b>LangGraph</b> and <b>Claude LLM</b> to classify 8M+ CFPB regulatory complaint filings across 15+ financial categories via ChromaDB semantic search.</p>
+      <p><b>Results:</b> 92% classification accuracy &nbsp;·&nbsp; sub-2s latency &nbsp;·&nbsp; 4 enforcement layers &nbsp;·&nbsp; 100% auditable outputs via correlation-ID lineage tracking</p>
+      <p><code>LangGraph</code> <code>Anthropic Claude</code> <code>ChromaDB</code> <code>FastAPI</code> <code>AWS Lambda</code> <code>Docker</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🔔 Real-Time Transaction Streaming</h3>
+      <h3 align="center">⚡ Real-Time Payment Reconciliation</h3>
       <p align="center">
-        <a href="https://github.com/20krish20/Real-Time-Transaction-Streaming-Alerting-with-Kafka-and-Spark">
+        <a href="https://github.com/20krish20/Real-Time-Payment-Reconciliation-Anomaly-Detection-Platform">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>End-to-end Kafka to Spark Structured Streaming data lake on <b>Databricks</b> using Medallion Architecture (Bronze/Silver/Gold) with ACID-compliant Delta Lake layers.</p>
-      <p><b>Results:</b> 50K+ events/sec · sub-500ms end-to-end latency · 60% faster deployment via AWS CodePipeline · 3x faster analytics on Snowflake Gold layer</p>
-      <p><code>Kafka</code> <code>Spark Streaming</code> <code>Databricks</code> <code>Delta Lake</code> <code>Snowflake</code></p>
+      <p>Stream-to-stream reconciliation engine using <b>Spark Structured Streaming</b> with 10-min/30-min asymmetric watermarks and Delta Lake MERGE for exactly-once financial transaction processing.</p>
+      <p><b>Results:</b> 1,000 TPS &nbsp;·&nbsp; 24 hrs → 5 min settlement visibility &nbsp;·&nbsp; 5-tier anomaly classifier at sub-second latency &nbsp;·&nbsp; 500 counterparties &nbsp;·&nbsp; 2.6% anomaly rate</p>
+      <p><code>Kafka</code> <code>Spark Streaming</code> <code>Delta Lake</code> <code>Databricks</code> <code>Snowflake</code> <code>Great Expectations</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🔍 Lakehouse Observability Framework</h3>
+    <td colspan="2">
+      <h3 align="center">💹 FiRe-Val &nbsp;|&nbsp; Financial Reasoning Engine</h3>
       <p align="center">
-        <a href="https://github.com/20krish20">
+        <a href="https://github.com/20krish20/financial-reasoning-engine">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Data quality and observability layer over Medallion Architecture using <b>Great Expectations</b> and <b>dbt</b>, monitoring schema drift, volume anomalies, and freshness SLAs across all 3 layers.</p>
-      <p><b>Results:</b> 95% of data issues caught pre-consumption · 60% reduction in mean-time-to-detect · audit-ready scorecards for 100% of downstream Snowflake tables</p>
-      <p><code>Great Expectations</code> <code>dbt</code> <code>Airflow</code> <code>Snowflake</code> <code>Python</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎬 RAG Movie QA System</h3>
-      <p align="center">
-        <a href="https://github.com/20krish20/Movie-Question-Answering-System-RAG">
-          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Dual-pipeline <b>RAG retrieval system</b> over 10K IMDB titles using FAISS semantic search and LangChain LLMs with automatic semantic/factual query routing.</p>
-      <p><b>Results:</b> 88% semantic retrieval precision · 35% hallucination reduction vs naive baseline · sub-second query latency · production-ready FastAPI endpoint</p>
-      <p><code>FAISS</code> <code>LangChain</code> <code>Hugging Face</code> <code>FastAPI</code> <code>Python</code></p>
+      <p align="center">Python quantitative analytics engine implementing 3 financial models — 5-year DCF, 10K-path Monte Carlo simulation, and Sharpe-optimal portfolio optimization via SciPy SLSQP — producing structured Chain-of-Thought training data for LLM fine-tuning in quantitative finance.</p>
+      <p align="center"><b>Results:</b> 75 unit tests across 4 modules &nbsp;·&nbsp; CI/CD across 3 Python versions (3.10–3.12) &nbsp;·&nbsp; 2 JSONL export formats &nbsp;·&nbsp; compatible with Anthropic and OpenAI fine-tune APIs</p>
+      <p align="center"><code>Python</code> <code>SciPy</code> <code>NumPy</code> <code>pandas</code> <code>DCF</code> <code>Monte Carlo</code> <code>MPT</code> <code>pytest</code> <code>GitHub Actions</code></p>
     </td>
   </tr>
 </table>
 
-> 📌 *See all repositories → [github.com/20krish20?tab=repositories](https://github.com/20krish20?tab=repositories)*
+> 📌 *See all repositories → [github.com/20krish20](https://github.com/20krish20?tab=repositories)*
+
 
 ---
 
