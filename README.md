@@ -19,10 +19,9 @@
 
 ### About Me
 
-4 years building production data pipelines at **Citicorp Services India** and **TCS / Maersk Logistics**.  
+4 years building production data pipelines at **Citi** and **TCS / Maersk Logistics**.  
 Processed **2TB+ daily financial data** using Scala Spark on Hadoop/HDFS — 50% ETL runtime reduction, 99.99% reconciliation accuracy.  
-Finishing **MS in Data Science at University of Maryland, College Park** (GPA 3.88) — May 2026.  
-Open to **Data Engineer** and **Analytics Engineer** roles starting immediately.
+Finishing **MS in Data Science at University of Maryland, College Park** (GPA 3.88) — May 2026.
 
 ---
 
@@ -54,6 +53,9 @@ Open to **Data Engineer** and **Analytics Engineer** roles starting immediately.
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
   </tr>
@@ -124,7 +126,6 @@ Open to **Data Engineer** and **Analytics Engineer** roles starting immediately.
 
 > 📌 *See all repositories → [github.com/20krish20](https://github.com/20krish20?tab=repositories)*
 
-
 ---
 
 ### Education
@@ -141,10 +142,9 @@ Coursework: Machine Learning, NLP, Computer Vision, Big Data Systems, Probabilit
 ### Certifications
 
 - AWS Certified Data Engineer Associate
-- AWS Certified Cloud Practitioner  
+- AWS Certified Cloud Practitioner
 - IBM Data Engineering Professional Certificate
-- Microsoft Excel — Advanced Formulas & Functions (Udemy, 2021)
-- Databricks Certified Data Engineer Associate *(April 2026)*
+- Databricks Certified Data Engineer Associate
 
 ---
 
