@@ -1,7 +1,6 @@
-<h1 align="center">
-  Krishnendra (Krish) Tomar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=180&section=header&text=Krishnendra%20Tomar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Data%20Engineering&descSize=16&descAlignY=56" width="100%" alt="Krishnendra Tomar" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
