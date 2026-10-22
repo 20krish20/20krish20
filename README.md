@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=180&section=header&text=Krishnendra%20Tomar&fontSize=52&fontColor=1E3A8A&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Data%20Engineering&descSize=16&descAlignY=56" width="100%" alt="Krishnendra Tomar" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&random=false&width=800&lines=AI%2FML+Engineer+%40+Pictory+%7C+Ex-Citi+Data+Engineer;LLM+evaluation+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Data+pipelines;MS+Data+Science+%40+UMD+(2026)" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
