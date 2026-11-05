@@ -19,10 +19,9 @@
 
 I build AI systems that are measured before they are trusted.
 
-- **Now:** AI/ML Engineer Intern at **Pictory** (AI video SaaS). I built the LLM-powered user-segmentation system as the sole engineer, working with the CEO and CTO. It now feeds the company's weekly revenue reports.
-- **Before:** 4 years as a data engineer at **Citi** (payments platform for corporate clients) and **TCS / Maersk**, building Spark pipelines over ~2 TB of payment data.
+- **Now:** ML Engineer Intern at **Pictory** (AI video SaaS). I built the LLM-powered user-segmentation system as the sole engineer, working with the CEO and CTO. It now feeds the company's weekly revenue reports.
+- **Before:** 4 years as a data analyst at **Citi** (payments platform for corporate clients) and **TCS / Maersk**, building Spark pipelines over ~2 TB of payment data.
 - **Education:** M.S. in Data Science, University of Maryland, College Park (2026), GPA 3.88.
-- **Currently learning:** fine-tuning small models to replace expensive LLM calls.
 
 ---
 
