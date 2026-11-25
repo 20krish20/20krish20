@@ -1,5 +1,8 @@
+
+
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=180&section=header&text=Krishnendra%20Tomar&fontSize=52&fontColor=1E3A8A&animation=fadeIn&fontAlignY=36&desc=Data%20%26%20Analytics%20Engineer&descSize=16&descAlignY=56" width="100%" alt="Krishnendra Tomar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=180&section=header&text=Krishnendra%20Tomar&fontSize=52&fontColor=1E3A8A&animation=fadeIn&fontAlignY=36&desc=Data%20and%20Analytics%20Engineer&descSize=16&descAlignY=56" width="100%" alt="Krishnendra Tomar" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +13,7 @@
   <a href="https://www.linkedin.com/in/krishnendrasinghtomar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:tomarkrishnendra0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
----
+<hr />
  
 ### About Me
  
